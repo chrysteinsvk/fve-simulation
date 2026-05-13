@@ -1,4 +1,4 @@
-# Technicko-ekonomická analýza hybridných FVE a BESS (Diplomová práca: Návrh fotovoltickej elektrárne pre rodinný dom)
+# Diplomová práca: Návrh fotovoltickej elektrárne pre rodinný dom
 
 **Autor:** Bc. Erik Sklenka  
 **Inštitúcia:** STU v Bratislave, FEI  
