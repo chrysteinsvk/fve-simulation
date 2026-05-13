@@ -11,7 +11,7 @@ Tento repozitár obsahuje výpočtové jadro diplomovej práce zameranej na náv
 * Výpočet ekonomickej návratnosti v 25-ročnom cykle.
 
 ## Štruktúra súborov
-* `skript_1_filtracia.py` až `skript_7_hybrid_model.py` - Hlavné analytické moduly.
+* `1_hladanie_priebehu.py` až `6_bateria_komb.py` - Hlavné analytické moduly.
 * `data/` - Vzorové dátové štruktúry pre simuláciu.
 
 ## Požiadavky
